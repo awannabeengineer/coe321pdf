@@ -1,2 +1,2 @@
 # coe321pdf
-just a temp file to test out myocrpdf throught goolgle colab kernels
+just a temp repo to test out myocrpdf throught goolgle colab kernels
